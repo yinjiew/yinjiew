@@ -1,5 +1,12 @@
 ## Hi there 👋
-My name is wyj. This is my programs repos.
+
+我是王寅杰
+
+My name is Yinjie Wang.
+
+This is my programs repos.
+
+I like coding!
 <!--
 **yinjiew/yinjiew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
