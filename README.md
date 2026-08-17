@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-我是王寅杰
-
 My name is Yinjie Wang.
 
 This is my programs repos.
