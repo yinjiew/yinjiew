@@ -6,7 +6,7 @@ This is my programs repos.
 
 I like coding!
 
-My github contribution:
+My github contributions:
 
 Pytorch fix.
 
